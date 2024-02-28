@@ -4,7 +4,7 @@ This repository contains the Jupyter notebook files and necessary data for compl
 
 **Repository Contents:**
 
-- **data/**: This folder contains the necessary data files required to complete the tasks.
+- **data**: This folder contains the necessary data files required to complete the tasks.
 
 **Notes:**
 
